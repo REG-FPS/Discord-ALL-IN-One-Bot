@@ -1,4 +1,4 @@
-# Welcome to Axon X Code
+# Welcome to REG Bot
 
 - Get Started
 -> Make sure the verison of py is 3.11
@@ -23,6 +23,6 @@ Only 2 step is requires to set this bot!
 
 # That all 
 
-Enjoy the code to its fullest Preovided By CodeX Developement!
+Enjoy the code to its fullest Preovided By REG!
 
 <3
